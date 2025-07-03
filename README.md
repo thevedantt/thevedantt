@@ -1,62 +1,63 @@
-# 👋 Hi, I'm Vedant Talekar (aka thevedantt)
+# 🧠 Vedant Talekar — thevedantt
 
-🚀 Full-Stack Developer | Python Developer | AI/ML Enthusiast  
-Crafting intelligent, user-first solutions with Next.js, TypeScript, Python & TensorFlow.  
-Passionate about solving real-world problems with impactful technology.
+### Full-Stack Developer | Python & AI/ML Practitioner | TensorFlow Explorer
 
----
-
-## 💡 What Drives Me
-
-- 🤖 Building with **AI/ML** to enhance everyday life
-- 🧠 Leveraging **LLMs & Deep Learning** for practical innovation
-- 💻 Blending **frontend finesse** with **backend power**
-- 🧪 Experimenting with TensorFlow, Transformers & real-time voice AI
-- 🌍 Building for the future of **smart healthcare & education**
+Hi there! I’m Vedant — a developer who blends code with creativity and AI with real-world utility. I build scalable web apps, smart systems, and AI-driven solutions that matter.
 
 ---
 
-## 🚀 Projects I'm Proud Of
+## 👨‍💻 About Me
 
-| 💻 Project      | 🔍 What It Does |
-|----------------|----------------|
-| 📚 [ExaLearn](https://github.com/thevedantt/exagram-sih) | AI-powered smart education platform with a question paper generator, assistant & student community |
-| 🍔 [GustoGo](https://github.com/thevedantt/gustogo) | Digital canteen system with real-time order management built using Flask, SQLite & Bootstrap |
-| 🩺 [VaidAI](https://github.com/thevedantt/vaidai) | Real-time AI Medical Voice Agent using Next.js, TypeScript, and AssemblyAI |
-| 🎬 [CineMind](https://github.com/thevedantt/cinemind) | ML-based movie recommender system with content-based & collaborative filtering |
-| 💉 [GlucoGuardAI](https://github.com/thevedantt/glucoguardai) | Diabetes prediction and glucose level monitoring using TensorFlow & data-driven insights |
-| 🔢 [DigitRec](https://github.com/thevedantt/digitrec) | MNIST digit classifier using CNNs in TensorFlow with interactive UI |
+- 🛠️ I work across the stack with **Next.js**, **React**, **TypeScript**, and **Python**
+- 🤖 I'm passionate about **AI & ML**, working with **TensorFlow**, **scikit-learn**, and LLMs
+- 💡 I believe in building tools that are intuitive, intelligent, and impactful
+- 🎯 Constantly exploring the intersection of tech and human problems — from **healthcare** to **education**
 
 ---
 
-## ⚙️ Tech Stack
+## 🔍 Focus Areas
 
-**Languages:**  
-`Python` `JavaScript` `TypeScript` `SQL` `HTML` `CSS`
-
-**Frameworks & Libraries:**  
-`Next.js` `React` `Flask` `TailwindCSS` `GSAP` `Socket.IO`
-
-**AI/ML:**  
-`TensorFlow` `scikit-learn` `OpenAI API` `Gemini` `LangChain`
-
-**Tools & Platforms:**  
-`Firebase` `Neon DB` `SQLite` `Git` `Vercel` `PythonAnywhere`
+- 💬 Real-time voice agents powered by **AI**
+- 🧾 ML-backed tools like **question generators** and **recommendation systems**
+- 🩺 Building health-focused AI (e.g., **diabetes prediction**, symptom analyzers)
+- 🌐 Frontend frameworks with motion UI & interactive UX
 
 ---
 
-## 📊 GitHub Stats
+## 📁 Noteworthy Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thevedantt&layout=compact)
-
----
-
-## 🌐 Connect With Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vedant-talekar-055910208/)
-- 📬 Email: vedanttalekar1705@gmail.com
+- 🧠 **[VaidAI](https://github.com/thevedantt/vaidai)** – Real-time AI medical voice assistant (Next.js + AssemblyAI + Neon DB)
+- 📊 **[DigitRec](https://github.com/thevedantt/digitrec)** – MNIST digit recognition using CNN in TensorFlow
+- 📚 **[Exagram](https://github.com/thevedantt/exagram-sih)** – Smart EdTech system with automated test creation and note assistant
+- 🍽️ **[GustoGo](https://github.com/thevedantt/gustogo)** – Flask-based digital canteen platform
+- 🎬 **[CineMind](https://github.com/thevedantt/cinemind)** – Hybrid ML recommender for movie suggestions
+- 🩸 **[GlucoGuardAI](https://github.com/thevedantt/glucoguardai)** – AI-enabled diabetes and glucose monitoring system
 
 ---
 
-> *"Code with purpose. Build with vision."*  
-> — thevedantt
+## 🔧 Tech Toolbox
+
+| Category       | Tools & Frameworks |
+|----------------|--------------------|
+| **Languages**  | Python, JavaScript, TypeScript, SQL, HTML/CSS |
+| **Frontend**   | React, Next.js, Tailwind CSS, GSAP |
+| **Backend**    | Flask, Firebase, SQLite, Neon DB |
+| **ML/AI**      | TensorFlow, Scikit-learn, LangChain, OpenAI, Gemini |
+| **Others**     | Git, Vercel, PythonAnywhere, Clerk, AssemblyAI |
+
+---
+
+## 📊 GitHub Insights
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thevedantt&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Reach Out
+
+- 📧 **Email**: vedanttalekar1705@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/vedant-talekar-055910208](https://www.linkedin.com/in/vedant-talekar-055910208/)
+
+---
+
+> 🚀 *“Tech should simplify lives, not complicate them — I build with that belief.”*
