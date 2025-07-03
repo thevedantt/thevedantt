@@ -26,12 +26,15 @@ Hi there! I’m Vedant — a developer who blends code with creativity and AI wi
 
 ## 📁 Noteworthy Projects
 
-- 🧠 **[VaidAI](https://github.com/thevedantt/vaidai)** – Real-time AI medical voice assistant (Next.js + AssemblyAI + Neon DB)
-- 📊 **[DigitRec](https://github.com/thevedantt/digitrec)** – MNIST digit recognition using CNN in TensorFlow
-- 📚 **[Exagram](https://github.com/thevedantt/exagram-sih)** – Smart EdTech system with automated test creation and note assistant
-- 🍽️ **[GustoGo](https://github.com/thevedantt/gustogo)** – Flask-based digital canteen platform
-- 🎬 **[CineMind](https://github.com/thevedantt/cinemind)** – Hybrid ML recommender for movie suggestions
-- 🩸 **[GlucoGuardAI](https://github.com/thevedantt/glucoguardai)** – AI-enabled diabetes and glucose monitoring system
+| Project        | Description                                                                 | Tech Stack                                      | Link                                                                 |
+|----------------|-----------------------------------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------|
+| 🧠 **VaidAI**      | Real-time AI medical voice assistant                                         | Next.js, TypeScript, AssemblyAI, Neon DB         | [View Project](https://github.com/thevedantt/vaidai)                |
+| 📊 **DigitRec**    | MNIST digit recognition using Convolutional Neural Networks (CNN)          | Python, TensorFlow                              | [View Project](https://github.com/thevedantt/digitrec)              |
+| 📚 **Exagram**     | Smart EdTech platform with auto test generation and note interaction       | TypeScript, LLMs, Firebase, Next.js              | [View Project](https://github.com/thevedantt/exagram-sih)           |
+| 🍽️ **GustoGo**     | Flask-based digital canteen ordering system with user auth & cart          | Python, Flask, SQLite, HTML/CSS                  | [View Project](https://github.com/thevedantt/gustogo)               |
+| 🎬 **CineMind**    | Hybrid ML movie recommender system using collaborative and content filtering| Python, Scikit-learn, Pandas, Streamlit          | [View Project](https://github.com/thevedantt/cinemind)              |
+| 🩸 **GlucoGuardAI**| AI-powered glucose and diabetes monitoring system                           | Python, Machine Learning, Data Visualization     | [View Project](https://github.com/thevedantt/glucoguardai)          |
+
 
 ---
 
