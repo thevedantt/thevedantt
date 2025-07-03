@@ -26,14 +26,14 @@ Hi there! I’m Vedant — a developer who blends code with creativity and AI wi
 
 ## 📁 Noteworthy Projects
 
-| Project        | Description                                                                 | Tech Stack                                      | Link                                                                 |
-|----------------|-----------------------------------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------|
-| 🧠 **VaidAI**      | Real-time AI medical voice assistant                                         | Next.js, TypeScript, AssemblyAI, Neon DB         | [View Project](https://github.com/thevedantt/vaidai)                |
-| 📊 **DigitRec**    | MNIST digit recognition using Convolutional Neural Networks (CNN)          | Python, TensorFlow                              | [View Project](https://github.com/thevedantt/digitrec)              |
-| 📚 **Exagram**     | Smart EdTech platform with auto test generation and note interaction       | TypeScript, LLMs, Firebase, Next.js              | [View Project](https://github.com/thevedantt/exagram-sih)           |
-| 🍽️ **GustoGo**     | Flask-based digital canteen ordering system with user auth & cart          | Python, Flask, SQLite, HTML/CSS                  | [View Project](https://github.com/thevedantt/gustogo)               |
-| 🎬 **CineMind**    | Hybrid ML movie recommender system using collaborative and content filtering| Python, Scikit-learn, Pandas, Streamlit          | [View Project](https://github.com/thevedantt/cinemind)              |
-| 🩸 **GlucoGuardAI**| AI-powered glucose and diabetes monitoring system                           | Python, Machine Learning, Data Visualization     | [View Project](https://github.com/thevedantt/glucoguardai)          |
+| Project         | Description                                                                                                                                                     | Tech Stack               | Link |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|------|
+| 📚 **ExaLearn** | A dynamic, interactive web-based learning platform built using pure JavaScript and CSS. Delivers real-time feedback, responsive UI, and gamified experiences with a lightweight, client-side architecture. | JavaScript, CSS          | [View Project](https://github.com/thevedantt/exagram-sih) |
+| 🍽️ **GustoGo**  | A digital canteen management system using Flask that allows users to browse the menu, place orders, and manage their profiles in a seamless web experience.      | Flask, Python, HTML, CSS | [View Project](https://github.com/thevedantt/gustogo) |
+| 🧠 **VaidAI**    | Real-time AI medical voice assistant leveraging AssemblyAI, Clerk, and NeonDB. Provides conversational diagnosis with report generation for enhanced virtual care. | Next.js, TypeScript, AssemblyAI, NeonDB | [View Project](https://github.com/thevedantt/vaidai) |
+| 🎬 **CineMind**  | A movie recommendation system using hybrid ML techniques combining collaborative filtering and content-based filtering for personalized suggestions.               | Python, Scikit-learn     | [View Project](https://github.com/thevedantt/cinemind) |
+| 🩸 **GlucoGuardAI** | AI-powered tool for real-time glucose and diabetes risk prediction, combining ML classification with visualizations for better patient awareness.                | Python, Pandas, Sklearn  | [View Project](https://github.com/thevedantt/glucoguardai) |
+| 📊 **DigitRec**  | MNIST digit recognition model built with TensorFlow and CNN, designed to classify handwritten digits with high accuracy and interactive demo support.             | Python, TensorFlow       | [View Project](https://github.com/thevedantt/digitrec) |
 
 
 ---
