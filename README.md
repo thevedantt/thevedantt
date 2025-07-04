@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vedant Talekar (aka thevedantt)
 
-🚀 Full-Stack Developer | Python Developer | AI/ML Enthusiast
+🚀  Python Developer | Full-Stack Developer | AI/ML Enthusiast
 
 Hi there! I’m Vedant — a developer who blends code with creativity and AI with real-world utility. I build scalable web apps, smart systems, and AI-driven solutions that matter.
 
