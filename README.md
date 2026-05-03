@@ -52,8 +52,7 @@ Hi there! I’m Vedant — a developer who blends code with creativity and AI wi
 
 ## 📊 GitHub Insights
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thevedantt&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thevedantt&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,css&langs_count=8&hide_border=true)
 ---
 
 ## 📫 Reach Out
