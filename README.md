@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg?v=3" width="100%" alt="Vedant Talekar — AI Engineer" />
+  <img src="assets/banner.svg?v=4" width="100%" alt="Vedant Talekar — AI Engineer" />
 </p>
 
 <p align="center">
@@ -7,26 +7,20 @@
   <a href="https://www.linkedin.com/in/vedant-talekar-055910208/"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF1E1E" /></a>
   <a href="mailto:vedanttalekar1705@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF1E1E" /></a>
   <a href="https://github.com/thevedantt?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-0A0A0A?style=for-the-badge&logo=github&logoColor=FF1E1E" /></a>
-  <img src="https://komarev.com/ghpvc/?username=thevedantt&label=PROFILE%20HITS&color=8B0000&style=for-the-badge&labelColor=0A0A0A" />
 </p>
 
-<br>
+<img src="assets/div-01.svg?v=4" width="100%" />
+<p align="center"><img src="assets/whoami.svg?v=4" width="100%" alt="Vedant Talekar — AI/ML backend engineer at Zeqo, building LLM pipelines and document AI." /></p>
 
-<img src="assets/div-01.svg?v=3" width="100%" />
-<p align="center"><img src="assets/whoami.svg?v=3" width="100%" alt="whoami" /></p>
-
-<img src="assets/div-02.svg?v=3" width="100%" />
-<p align="center"><img src="assets/system-map.svg?v=3" width="100%" alt="Focus areas" /></p>
-
-<img src="assets/div-03.svg?v=3" width="100%" />
+<img src="assets/div-02.svg?v=4" width="100%" />
 <p align="center">
-  <a href="https://github.com/thevedantt/QPILOT"><img src="assets/proj-01.svg?v=3" width="32%" alt="QPilot AI" /></a>
-  <a href="https://github.com/thevedantt/Veritas"><img src="assets/proj-02.svg?v=3" width="32%" alt="Veritas" /></a>
-  <a href="https://github.com/thevedantt/Synapse"><img src="assets/proj-03.svg?v=3" width="32%" alt="Synapse" /></a>
+  <a href="https://github.com/thevedantt/QPILOT"><img src="assets/proj-01.svg?v=4" width="32%" alt="QPilot AI" /></a>
+  <a href="https://github.com/thevedantt/Veritas"><img src="assets/proj-02.svg?v=4" width="32%" alt="Veritas" /></a>
+  <a href="https://github.com/thevedantt/Synapse"><img src="assets/proj-03.svg?v=4" width="32%" alt="Synapse" /></a>
   <br>
-  <a href="https://github.com/thevedantt/exaverse"><img src="assets/proj-04.svg?v=3" width="32%" alt="ExaVerse" /></a>
-  <a href="https://github.com/thevedantt/NeuroNet"><img src="assets/proj-05.svg?v=3" width="32%" alt="Neuronet" /></a>
-  <a href="https://github.com/thevedantt/VaidAi"><img src="assets/proj-06.svg?v=3" width="32%" alt="VaidAI" /></a>
+  <a href="https://github.com/thevedantt/exaverse"><img src="assets/proj-04.svg?v=4" width="32%" alt="ExaVerse" /></a>
+  <a href="https://github.com/thevedantt/NeuroNet"><img src="assets/proj-05.svg?v=4" width="32%" alt="Neuronet" /></a>
+  <a href="https://github.com/thevedantt/VaidAi"><img src="assets/proj-06.svg?v=4" width="32%" alt="VaidAI" /></a>
 </p>
 
 <details>
@@ -48,27 +42,20 @@
 
 </details>
 
-<img src="assets/div-04.svg?v=3" width="100%" />
-<p align="center"><img src="assets/experience.svg?v=3" width="100%" alt="Experience" /></p>
-<p align="center"><img src="assets/achievements.svg?v=3" width="100%" alt="Hackathons: SIH Finalist; 2nd Runner-Up, Avishkaar Season 2 (GeeksforGeeks); 2nd Runner-Up, HackUp; Runner-Up, INNOVATHON GenAI; Winner, inter-college project competition" /></p>
+<img src="assets/div-03.svg?v=4" width="100%" />
+<p align="center"><img src="assets/experience.svg?v=4" width="100%" alt="Experience" /></p>
+<p align="center"><img src="assets/achievements.svg?v=4" width="100%" alt="Hackathons: SIH Finalist; 2nd Runner-Up, Avishkaar Season 2 (GeeksforGeeks); 2nd Runner-Up, HackUp; Runner-Up, INNOVATHON GenAI; Winner, inter-college project competition" /></p>
 
-<img src="assets/div-05.svg?v=3" width="100%" />
-<p align="center"><img src="assets/stack.svg?v=3" width="100%" alt="Tech stack" /></p>
+<img src="assets/div-04.svg?v=4" width="100%" />
+<p align="center"><img src="assets/stack.svg?v=4" width="100%" alt="Tech stack: Python, TypeScript, LangGraph, LangChain, MCP, Gemini, OpenAI, Bedrock, PostgreSQL, pgvector, Qdrant, FastAPI, Next.js, React, TensorFlow, Docker, Vertex AI" /></p>
 
-<img src="assets/div-06.svg?v=3" width="100%" />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thevedantt&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF1E1E&icon_color=FF1E1E&text_color=D6D6D6&ring_color=FF1E1E&custom_title=GITHUB%20STATS" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevedantt&layout=compact&hide=jupyter%20notebook,html,css&langs_count=8&hide_border=true&bg_color=0A0A0A&title_color=FF1E1E&text_color=D6D6D6&custom_title=TOP%20LANGUAGES" height="170" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thevedantt&bg_color=0A0A0A&color=D6D6D6&line=FF1E1E&point=FFFFFF&area=true&area_color=8B0000&hide_border=true&custom_title=CONTRIBUTIONS" width="100%" />
-</p>
-
-<img src="assets/div-07.svg?v=3" width="100%" />
+<img src="assets/div-05.svg?v=4" width="100%" />
 <p align="center">
   <a href="mailto:vedanttalekar1705@gmail.com"><code>vedanttalekar1705@gmail.com</code></a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/vedant-talekar-055910208/"><code>linkedin.com/in/vedant-talekar-055910208</code></a>
+  <a href="https://www.linkedin.com/in/vedant-talekar-055910208/"><code>linkedin</code></a>
+  &nbsp;·&nbsp;
+  <a href="https://thevedantsportfolio.vercel.app"><code>portfolio</code></a>
 </p>
 
-<p align="center"><img src="assets/footer.svg?v=3" width="100%" alt="Technology should simplify lives, not complicate them." /></p>
+<p align="center"><img src="assets/footer.svg?v=4" width="100%" alt="Technology should simplify lives, not complicate them." /></p>
