@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Vedant Talekar — AI Engineer" />
+  <img src="assets/banner.svg?v=2" width="100%" alt="Vedant Talekar — AI Engineer" />
 </p>
 
 <p align="center">
@@ -11,21 +11,21 @@
 
 <br>
 
-<img src="assets/div-01.svg" width="100%" />
-<p align="center"><img src="assets/whoami.svg" width="100%" alt="whoami" /></p>
+<img src="assets/div-01.svg?v=2" width="100%" />
+<p align="center"><img src="assets/whoami.svg?v=2" width="100%" alt="whoami" /></p>
 
-<img src="assets/div-02.svg" width="100%" />
-<p align="center"><img src="assets/system-map.svg" width="100%" alt="Focus areas: voice agents, document AI, LLM pipelines, ML tools, health AI, motion UI" /></p>
+<img src="assets/div-02.svg?v=2" width="100%" />
+<p align="center"><img src="assets/system-map.svg?v=2" width="100%" alt="Focus areas: voice agents, document AI, LLM pipelines, ML tools, health AI, motion UI" /></p>
 
-<img src="assets/div-03.svg" width="100%" />
+<img src="assets/div-03.svg?v=2" width="100%" />
 <p align="center">
-  <a href="https://github.com/thevedantt/ExaLearn"><img src="assets/proj-01.svg" width="32%" alt="ExaLearn" /></a>
-  <a href="https://github.com/thevedantt/gustogo"><img src="assets/proj-02.svg" width="32%" alt="GustoGo" /></a>
-  <a href="https://github.com/thevedantt/vaidai"><img src="assets/proj-03.svg" width="32%" alt="VaidAI" /></a>
+  <a href="https://github.com/thevedantt/ExaLearn"><img src="assets/proj-01.svg?v=2" width="32%" alt="ExaLearn" /></a>
+  <a href="https://github.com/thevedantt/gustogo"><img src="assets/proj-02.svg?v=2" width="32%" alt="GustoGo" /></a>
+  <a href="https://github.com/thevedantt/vaidai"><img src="assets/proj-03.svg?v=2" width="32%" alt="VaidAI" /></a>
   <br>
-  <a href="https://github.com/thevedantt/cinemind"><img src="assets/proj-04.svg" width="32%" alt="CineMind" /></a>
-  <a href="https://github.com/thevedantt/glucoguardai"><img src="assets/proj-05.svg" width="32%" alt="GlucoGuardAI" /></a>
-  <a href="https://github.com/thevedantt/digitrec"><img src="assets/proj-06.svg" width="32%" alt="DigitRec" /></a>
+  <a href="https://github.com/thevedantt/cinemind"><img src="assets/proj-04.svg?v=2" width="32%" alt="CineMind" /></a>
+  <a href="https://github.com/thevedantt/glucoguardai"><img src="assets/proj-05.svg?v=2" width="32%" alt="GlucoGuardAI" /></a>
+  <a href="https://github.com/thevedantt/digitrec"><img src="assets/proj-06.svg?v=2" width="32%" alt="DigitRec" /></a>
 </p>
 
 <details>
@@ -43,13 +43,13 @@
 
 </details>
 
-<img src="assets/div-04.svg" width="100%" />
-<p align="center"><img src="assets/experience.svg" width="100%" alt="Experience" /></p>
+<img src="assets/div-04.svg?v=2" width="100%" />
+<p align="center"><img src="assets/experience.svg?v=2" width="100%" alt="Experience" /></p>
 
-<img src="assets/div-05.svg" width="100%" />
-<p align="center"><img src="assets/stack.svg" width="100%" alt="Tech stack" /></p>
+<img src="assets/div-05.svg?v=2" width="100%" />
+<p align="center"><img src="assets/stack.svg?v=2" width="100%" alt="Tech stack" /></p>
 
-<img src="assets/div-06.svg" width="100%" />
+<img src="assets/div-06.svg?v=2" width="100%" />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thevedantt&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF1E1E&icon_color=FF1E1E&text_color=D6D6D6&ring_color=FF1E1E&custom_title=GITHUB%20STATS" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevedantt&layout=compact&hide=jupyter%20notebook,html,css&langs_count=8&hide_border=true&bg_color=0A0A0A&title_color=FF1E1E&text_color=D6D6D6&custom_title=TOP%20LANGUAGES" height="170" />
@@ -58,11 +58,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thevedantt&bg_color=0A0A0A&color=D6D6D6&line=FF1E1E&point=FFFFFF&area=true&area_color=8B0000&hide_border=true&custom_title=CONTRIBUTIONS" width="100%" />
 </p>
 
-<img src="assets/div-07.svg" width="100%" />
+<img src="assets/div-07.svg?v=2" width="100%" />
 <p align="center">
   <a href="mailto:vedanttalekar1705@gmail.com"><code>vedanttalekar1705@gmail.com</code></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/vedant-talekar-055910208/"><code>linkedin.com/in/vedant-talekar-055910208</code></a>
 </p>
 
-<p align="center"><img src="assets/footer.svg" width="100%" alt="Technology should simplify lives, not complicate them." /></p>
+<p align="center"><img src="assets/footer.svg?v=2" width="100%" alt="Technology should simplify lives, not complicate them." /></p>
