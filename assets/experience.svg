@@ -16,11 +16,10 @@
 <line x1="60" y1="40" x2="60" y2="290" stroke="#3A0B0B" stroke-width="2"/>
 <line x1="60" y1="40" x2="60" y2="40" stroke="#FF1E1E" stroke-width="2"><animate attributeName="y2" from="40" to="290" dur="2s" fill="freeze"/></line>
 <circle cx="60" cy="60" r="14" fill="none" stroke="#FF1E1E" class="pulse"/><circle cx="60" cy="60" r="6" fill="#FF1E1E"/>
-<text x="96" y="52" fill="#7A7A7A" font-size="12" letter-spacing="3">JUL 2026 — PRESENT  ·  ACTIVE</text>
+<text x="96" y="52" fill="#7A7A7A" font-size="12" letter-spacing="3">JUL 2026 — PRESENT</text>
 <text x="96" y="80" fill="#FFFFFF" font-size="20" font-weight="800" letter-spacing="1">AI/ML BACKEND ENGINEER</text>
 <text x="396" y="80" fill="#FF1E1E" font-size="20" font-weight="800" letter-spacing="1">@ ZEQO</text><g class="fi" style="animation-delay:0.6s"><text x="96" y="112" fill="#FF1E1E" font-size="13">▸</text><text x="116" y="112" fill="#D6D6D6" font-size="13">AI exam-paper generator — syllabus blueprinting, difficulty &amp; Bloom's balancing, retrieval + LLM generation</text></g><g class="fi" style="animation-delay:0.8999999999999999s"><text x="96" y="138" fill="#FF1E1E" font-size="13">▸</text><text x="116" y="138" fill="#D6D6D6" font-size="13">Multi-stage OCR / Document AI pipeline over 30,000+ pages of exam PDFs → structured JSON in PostgreSQL</text></g><g class="fi" style="animation-delay:1.2s"><text x="96" y="164" fill="#FF1E1E" font-size="13">▸</text><text x="116" y="164" fill="#D6D6D6" font-size="13">LLM concept &amp; formula tagging at scale; question-variant generator with blind-solver verification</text></g><circle cx="60" cy="236" r="6" fill="#0A0A0A" stroke="#8B0000" stroke-width="2"/>
 <text x="96" y="228" fill="#7A7A7A" font-size="12" letter-spacing="3">JUN 2025 — DEC 2025</text>
 <text x="96" y="256" fill="#FFFFFF" font-size="20" font-weight="800" letter-spacing="1">AI ENGINEER INTERN</text>
 <text x="344" y="256" fill="#B22222" font-size="20" font-weight="800" letter-spacing="1">@ FINDFAKE SERVICES</text>
-<text x="970" y="310" fill="#7A7A7A" font-size="11" letter-spacing="2" text-anchor="end">ROUTE · 02 STOPS</text>
 </svg>

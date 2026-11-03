@@ -29,17 +29,17 @@
 </p>
 
 <details>
-<summary><b>▍ FULL PROJECT LOG</b></summary>
+<summary><b>▍ PROJECT DETAILS</b></summary>
 <br>
 
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| **ExaLearn** | A dynamic, interactive web-based learning platform built using pure JavaScript and CSS. Delivers real-time feedback, responsive UI, and gamified experiences with a lightweight, client-side architecture. | JavaScript, CSS | [View](https://github.com/thevedantt/ExaLearn) |
-| **GustoGo** | A digital canteen management system using Flask that allows users to browse the menu, place orders, and manage their profiles in a seamless web experience. | Flask, Python, HTML, CSS | [View](https://github.com/thevedantt/gustogo) |
-| **VaidAI** | Real-time AI medical voice assistant leveraging AssemblyAI, Clerk, and NeonDB. Provides conversational diagnosis with report generation for enhanced virtual care. | Next.js, TypeScript, AssemblyAI, NeonDB | [View](https://github.com/thevedantt/vaidai) |
-| **CineMind** | A movie recommendation system using hybrid ML techniques combining collaborative filtering and content-based filtering for personalized suggestions. | Python, Scikit-learn | [View](https://github.com/thevedantt/cinemind) |
-| **GlucoGuardAI** | AI-powered tool for real-time glucose and diabetes risk prediction, combining ML classification with visualizations for better patient awareness. | Python, Pandas, Sklearn | [View](https://github.com/thevedantt/glucoguardai) |
-| **DigitRec** | MNIST digit recognition model built with TensorFlow and CNN, designed to classify handwritten digits with high accuracy and interactive demo support. | Python, TensorFlow | [View](https://github.com/thevedantt/digitrec) |
+| **ExaLearn** | Interactive learning platform built in plain JavaScript and CSS, with instant feedback, responsive UI and gamified practice. Fully client-side. | JavaScript, CSS | [View](https://github.com/thevedantt/ExaLearn) |
+| **GustoGo** | Canteen management web app: browse the menu, place orders and manage user profiles. | Flask, Python, HTML, CSS | [View](https://github.com/thevedantt/gustogo) |
+| **VaidAI** | Real-time medical voice assistant for symptom intake, producing a structured report. Uses AssemblyAI for speech, Clerk for auth and NeonDB for storage. | Next.js, TypeScript, AssemblyAI, NeonDB | [View](https://github.com/thevedantt/vaidai) |
+| **CineMind** | Hybrid movie recommender combining collaborative and content-based filtering. | Python, Scikit-learn | [View](https://github.com/thevedantt/cinemind) |
+| **GlucoGuardAI** | Diabetes risk prediction using ML classification, with visualizations of key health indicators. | Python, Pandas, Sklearn | [View](https://github.com/thevedantt/glucoguardai) |
+| **DigitRec** | CNN trained on MNIST to classify handwritten digits, with an interactive demo. | Python, TensorFlow | [View](https://github.com/thevedantt/digitrec) |
 
 </details>
 
@@ -51,11 +51,11 @@
 
 <img src="assets/div-06.svg" width="100%" />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thevedantt&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF1E1E&icon_color=FF1E1E&text_color=D6D6D6&ring_color=FF1E1E&custom_title=SYSTEM%20STATS" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevedantt&layout=compact&hide=jupyter%20notebook,html,css&langs_count=8&hide_border=true&bg_color=0A0A0A&title_color=FF1E1E&text_color=D6D6D6&custom_title=LANGUAGE%20LOAD" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thevedantt&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF1E1E&icon_color=FF1E1E&text_color=D6D6D6&ring_color=FF1E1E&custom_title=GITHUB%20STATS" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevedantt&layout=compact&hide=jupyter%20notebook,html,css&langs_count=8&hide_border=true&bg_color=0A0A0A&title_color=FF1E1E&text_color=D6D6D6&custom_title=TOP%20LANGUAGES" height="170" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thevedantt&bg_color=0A0A0A&color=D6D6D6&line=FF1E1E&point=FFFFFF&area=true&area_color=8B0000&hide_border=true&custom_title=CONTRIBUTION%20TELEMETRY" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thevedantt&bg_color=0A0A0A&color=D6D6D6&line=FF1E1E&point=FFFFFF&area=true&area_color=8B0000&hide_border=true&custom_title=CONTRIBUTIONS" width="100%" />
 </p>
 
 <img src="assets/div-07.svg" width="100%" />
@@ -65,4 +65,4 @@
   <a href="https://www.linkedin.com/in/vedant-talekar-055910208/"><code>linkedin.com/in/vedant-talekar-055910208</code></a>
 </p>
 
-<p align="center"><img src="assets/footer.svg" width="100%" alt="Tech should simplify lives, not complicate them — I build with that belief." /></p>
+<p align="center"><img src="assets/footer.svg" width="100%" alt="Technology should simplify lives, not complicate them." /></p>

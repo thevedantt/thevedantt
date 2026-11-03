@@ -13,9 +13,9 @@
 </style>
 <rect width="1000" height="64" rx="10" fill="#0A0A0A"/>
 <text x="24" y="42" fill="#FF1E1E" font-size="30" font-weight="800">07</text>
-<text x="76" y="40" fill="#D6D6D6" font-size="16" letter-spacing="4">// SIGNAL</text>
-<line x1="216" y1="35" x2="900" y2="35" stroke="#3A0B0B" stroke-width="1"/>
-<line x1="216" y1="35" x2="216" y2="35" stroke="#FF1E1E" stroke-width="1.5"><animate attributeName="x2" from="216" to="900" dur="1.6s" fill="freeze"/></line>
-<rect x="216" y="32" width="14" height="6" fill="#FF1E1E"><animate attributeName="x" values="216;886;216" dur="6s" repeatCount="indefinite"/></rect>
+<text x="76" y="40" fill="#D6D6D6" font-size="16" letter-spacing="4">// CONTACT</text>
+<line x1="222" y1="35" x2="900" y2="35" stroke="#3A0B0B" stroke-width="1"/>
+<line x1="222" y1="35" x2="222" y2="35" stroke="#FF1E1E" stroke-width="1.5"><animate attributeName="x2" from="222" to="900" dur="1.6s" fill="freeze"/></line>
+<rect x="222" y="32" width="14" height="6" fill="#FF1E1E"><animate attributeName="x" values="222;886;222" dur="6s" repeatCount="indefinite"/></rect>
 <text x="976" y="40" fill="#7A7A7A" font-size="12" text-anchor="end">[07/07]</text>
 </svg>

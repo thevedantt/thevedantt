@@ -15,7 +15,7 @@
 <path d="M10 28V10H28" fill="none" stroke="#FF1E1E" stroke-width="2"/><path d="M972 10H990V28" fill="none" stroke="#FF1E1E" stroke-width="2"/><path d="M10 162V180H28" fill="none" stroke="#FF1E1E" stroke-width="2"/><path d="M972 180H990V162" fill="none" stroke="#FF1E1E" stroke-width="2"/>
 <path d="M0 95 H340 L355 95 L365 60 L378 135 L392 40 L405 120 L415 95 H600 L612 95 L620 75 L630 112 L640 95 H1000" fill="none" stroke="#3A0B0B" stroke-width="2"/>
 <path d="M0 95 H340 L355 95 L365 60 L378 135 L392 40 L405 120 L415 95 H600 L612 95 L620 75 L630 112 L640 95 H1000" fill="none" stroke="#FF1E1E" stroke-width="2" stroke-dasharray="1400" stroke-dashoffset="1400"><animate attributeName="stroke-dashoffset" values="1400;0;-1400" dur="4s" repeatCount="indefinite"/></path>
-<text x="500" y="160" fill="#D6D6D6" font-size="14" font-style="italic" text-anchor="middle">“Tech should simplify lives, not complicate them — I build with that belief.”</text>
+<text x="500" y="160" fill="#D6D6D6" font-size="14" font-style="italic" text-anchor="middle">“Technology should simplify lives, not complicate them.”</text>
 <text x="30" y="36" fill="#7A7A7A" font-size="11" letter-spacing="2">STATUS: BUILDING</text>
 <text x="970" y="36" fill="#FF1E1E" font-size="11" letter-spacing="2" text-anchor="end">EOF ▍</text>
 </svg>
